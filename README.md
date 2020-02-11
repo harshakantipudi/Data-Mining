@@ -1,3 +1,3 @@
-# This Repository contains Data-Mining-University-Assignments with solutions
+##  Data-Mining-University-Assignments with solutions
 
-## Data Exploration
+### 1) Data Exploration
